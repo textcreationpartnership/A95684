@@ -1,0 +1,202 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A thakns-giving [sic] for the recovery of Philip, Earl of Pembroke and Montgomery. Who being lately admitted into the supreame authority of the nation a Knight for Berkshire; was unfortunately jeared into a pestilent-feaver, which after turn'd to the fowl disease, but by the skill of a state-emperick and Mrs. May his nurse is happily recovered: and desires a thanksgiving for the same, from the supreame authority, and all other well-affected to the nation. Taken verbatim from his own mouth, by Michael Oldsworth.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95684</idno>
+            <idno type="STC">Wing T837A</idno>
+            <idno type="STC">Thomason E556_23</idno>
+            <idno type="STC">ESTC R204637</idno>
+            <idno type="EEBO-CITATION">99864102</idno>
+            <idno type="PROQUEST">99864102</idno>
+            <idno type="VID">165138</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95684)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165138)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 86:E556[23])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A thakns-giving [sic] for the recovery of Philip, Earl of Pembroke and Montgomery. Who being lately admitted into the supreame authority of the nation a Knight for Berkshire; was unfortunately jeared into a pestilent-feaver, which after turn'd to the fowl disease, but by the skill of a state-emperick and Mrs. May his nurse is happily recovered: and desires a thanksgiving for the same, from the supreame authority, and all other well-affected to the nation. Taken verbatim from his own mouth, by Michael Oldsworth.</title>
+                  <author>Oldisworth, Michael, 1591-1654?</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the happy yeer of the Lords liberty. 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire on Pembroke, Oldisworth, and Mrs. May, Pembroke's mistress.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "May 29".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>May, --  Mrs.</term>
+               <term>Pembroke, Philip Herbert, --  Earl of, 1584-1650 --  Humor.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165138:1" rendition="simple:additions"/>
+            <p>
+               <hi>A</hi> THAKNS-GIVING For the Recovery of <hi>PHILIP,</hi> EARL OF <hi>PEMBROKE</hi> and <hi>Montgomery.</hi>
+            </p>
+            <p>Who being lately admitted into <hi>the Supreame Authority</hi> of the Nation<g ref="char:punc">▪</g> a <hi>Knight</hi> for <hi>Berkſhire;</hi> was unfortunately jeared into a Peſtilent-Feaver, which after turn'd to the <hi>Foul</hi> Diſeaſe, but by the <hi>skill</hi> of a <hi>State-Emperick</hi> and Mrs. <hi>May</hi> his Nurſe, is happily Recovered:</p>
+            <p>And deſires a Thanksgiving for the ſame, from the <hi>Supreame Authority,</hi>and all other Well-affected to the Nation.</p>
+            <p>Taken <hi>verbatim</hi> from his own mouth,</p>
+            <p>BY <hi>MICHAEL OLDSWORTH.</hi>
+            </p>
+            <p>
+               <add>May 29</add> Printed in the happy yeer of the <hi>Lords</hi> Liberty. 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:165138:2"/>
+            <pb n="3" facs="tcp:165138:2"/>
+            <head>
+               <hi>A</hi> THANKS-GIVING For the Recovery of <hi>PHILIP,</hi> EARL OF <hi>PEMBROKE</hi> and <hi>Montgomery.</hi>
+            </head>
+            <p>THey tax me with ſwearing; Damme, 'tis a ſcurvy trick that I learnt in King <hi>Iameſes</hi> time, 'zbloud I cannot leave it if I ſhould be hang'd; If I have not ſtriv'd as much to leave this ſin as any Member in the Houſe, I am a Traytor; <hi>Refuſe me</hi> I have not only ſworn, but forſworn my ſelf over and over a<g ref="char:EOLhyphen"/>gain, and yet they ſay I am a <hi>couſtant</hi> ſwearer, <hi>confound me</hi> if I love Oaths, or to keep Oaths, let them keep them that make Conſcience of them: A pox of Conſcience for me, I know not what it is, large Conſcience, and little Conſcience is all one to me; 'zbloud my Lord <hi>Capel</hi> us'd Conſcience, and the late King ſuffer'd for His Conſcience: No, no, 'tis juſt they ſhould ſuf<g ref="char:EOLhyphen"/>fer that are ſo Malignant as to keep any ſcruple of it: i'le have a care of that i'le warrant you: though I am a Fool, I am not a
+<pb n="4" facs="tcp:165138:3"/>Conſcientious fool, if I am let me ſuffer: 'bloud I think I have ſuffered as much as any man living for my time: I have ſuffer'd ſwitching, Caining, jearing, and now ſickneſs, and yet am thought by the people to be never a whitt the better for my ſuf<g ref="char:EOLhyphen"/>ferings; Damme I may be the better in time, for worſer I think I cannot be, and therefore I deſire all people to pray for me; yet I thank God I am amended over I was: theſe rogues are able to jear a horſe to death, and you know a horſe hath a bigger head, and is a bigger beaſt every way then I am, and hath more brains and ſtrength to bear it: Damme if I ſuffer them any longer, let them briddle me, and ſaddle me, and ride me for a fool: I have had too much patience, and I think that cauſed ſickneſs, for I was damnable impatient in my ſickneſs, and ſo I purpoſe to be unto my dying day: can any man be patient to ſuffer himſelf to be ſo abuſed, and cannot tell how to help him<g ref="char:EOLhyphen"/>ſelf? If the State will ſuffer it, let them, the wrong is theirs as well as mine; I am the ancienteſt Earl in the Parliament, and ſhould be their Head: and if they will ſuffer every fool to make a Foot-ball of their Head, 'tis pitty but they ſhould be a Body without a Head: Damme 'tis a monſterous thing to be with<g ref="char:EOLhyphen"/>out a head, or a head-piece either; a head-piece will keep off a blow, I am ſure I found the miſs of it; a pox take the Scot, he bruiſed my head and my bones too: and ſaid moreover, he would crown it with a Piſs-pot; but his head doth not ake for that now.</p>
+            <p>They ſay he that is called the Prince of WALES is pro<g ref="char:EOLhyphen"/>viding head-pieces in <hi>Holland,</hi> and if they ſuffer me to be ſtill jeared and derided, I know nothing to the contrary, but they may be knock'd o'th' head themſelves before next yeer yet: I am an Old man, and 'tis time for me to give over fighting: Dam me, I never drew a ſword in anger in my life, and ſhould be loath to begin now in my Old dayes: but if they will fight let them; I never knew any good come by fighting, I am ſure it hath done hurt on either ſide, and yet we love it ſo well with a pox, that we muſt fight agaiſt our own Party too; 'z bloud, are we mad to kill our ſelves? 'tis <hi>Murder</hi> by the Law; and in my judgement he that kills himſelf deſerves to be hang'd, and not ſhot to death as they are: Dam me, I know Death is ter<g ref="char:EOLhyphen"/>rible,
+<pb n="5" facs="tcp:165138:3"/>but yet not ſo terrible as to fright us into WAR that brings Death; and War one with another too, like two Dogs to fight for a Bone, till a third comes and runs away with it: I am bound in Conſcience to ſpeak my mind, and yet it had been better for me to have been born dumb, then ever to have ſpoke at all: for let me ſpeak but two words, preſently it begets a SPEECH, and then there is laughing work for the whole City for a month: Nay, my own Tenants get my Speeches by rote, and report them on their <hi>Ale-benches,</hi> and ſwear with as great a grace as my ſelf.</p>
+            <p>My Lord <hi>Mulgrave,</hi> you are a man that I dare open my ſelf too: Dam me, would I could open as loud as Thunder—My Lord the Parliament is become Common, and that makes it Common, and every thing they do is made Common; and all their <hi>Speeches, Acts, Declarations,</hi> and <hi>Proteſtations,</hi> are but as ſo many Laſts for the Cavaliers to make Shooes on: we muſt have <hi>Diurnals, Scouts, Occurrences,</hi> and the Devil and all, for them to make jears on; 'zbloud I am not ſuch a fool, but I can tell from whence all this proceeds—A Member cannot let a <hi>Fart</hi> in the Houſe, but preſently he finds it wrapt up in two ſheets of a <hi>Diurnal:</hi> I pitty other men as well as my ſelf; My Lord, here is the Worſhipful Alderman <hi>Atkins</hi> is ſenſible my Lord, and hath formerly made Complaint to me in the Lords Houſe, but (Lord help us) to little purpoſe: for an unmanner<g ref="char:EOLhyphen"/>ly fellow cannot ſo much as let a <hi>Fart,</hi> but preſently he cryes <hi>Atkins.</hi>
+            </p>
+            <p>My Lord <hi>Mulgrave,</hi> it is a ſtinking ſhame that our <hi>Members</hi> ſhould be thus abuſed; I hope my Lord you will move the Houſe for a ſpeedy Redreſs in this—Had I dy'd my Lord, <hi>ſink me,</hi> I am Mortal, fleſh and bloud, gra<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s and hay, as another man is, and ſo ſubject to dye; A pox take 'um, they made my <hi>Will</hi> and <hi>Teſtament,</hi> and my <hi>Epitaph</hi> too, thinking I had been <hi>Mortus eſt</hi> (as my Chaplain ſaith) and then I had had a ſweet Fame, had I not? for ever and ever to be ſung up and down in Ballads, to the tune of <hi>the Great Boobee:</hi> My Lord, 'tis all your caſes as well as mine— But (bleſſed be God) I am alive, and may live to ſee them all hanged that are the occaſioners of this—Dam me, I never gave them occaſion to be thus a<g ref="char:EOLhyphen"/>buſed:
+<pb n="6" facs="tcp:165138:4"/>but I am ſuch a fool, as I can forget an injury preſently; nay, and forgive too; but I can neither forget nor forgive this: My Lord, we muſt look after the occaſioners of this, for take away the occaſions, and the effects will ceaſe of themſelves: if the <hi>Diurnals</hi> had occaſioned my death, 'zbloud I have reaſon to kill them if I can: and yet I was never much guilty of ſhed<g ref="char:EOLhyphen"/>ding <hi>Bloud</hi> in my life; I had rather ſwear <hi>bloud</hi> a thouſand times then ſhed bloud once my Lord: innocent bloud would trouble a Parliament mans Conſcience, if he had any; but this is no time for a Parliament man to have Conſcience: 'zbloud I ſwore away mine above 40 yeers ago, and I hope there is not a Member in the Houſe but hath ſworn away his too, or elſe he is forſworn: Beſides, we being the <hi>Supream Authority</hi> in th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Nation, and inveſted with Power and Authority from the peoe<g ref="char:EOLunhyphen"/>ple, to be queſtioned upon <hi>Caſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s of Conſci<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nce,</hi> or <hi>rules of Reaſon</hi> for what we doe? <hi>My Lord,</hi> the <hi>State</hi> needs not to render a <hi>rea<g ref="char:EOLhyphen"/>ſon</hi> to any one, either to <hi>Li<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>burne</hi> or <hi>any body elſe;</hi> and if they will not be <hi>rul'd</hi> without <hi>reaſon,</hi> the <hi>State</hi> muſt <hi>rule</hi> them by <hi>force; D<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mme</hi> (my Lord) <hi>force</hi> is above <hi>reaſon,</hi> for doth not our <hi>power</hi> lie in our <hi>force<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>:</hi> had it not been for our <hi>forces,</hi> would <hi>reaſon</hi> have ſav'd us from hanging thinke ye? This Nation muſt be rul'd by <hi>force,</hi> and not <hi>reaſon,</hi> Damme, <hi>reaſon</hi> has brought the Land to that paſſe that it is, for can a <hi>miſchief</hi> happen without there be ſome <hi>reaſon</hi> for it? <hi>Damme,</hi> I know no difference between <hi>reaſon</hi> and <hi>treaſon;</hi> if the <hi>State</hi> pleaſe to make any thing <hi>treaſon,</hi> then Sinke me 'tis <hi>treaſon,</hi> and let him diſpute againſt it that dares; No, <hi>reaſon</hi> is one of the <hi>Levellers Principles,</hi> and not to be allow'd of in a <hi>free State,</hi> if the reſt were of my minde, we would Vote any man a <hi>Traytor</hi> that could but render half a <hi>reaſon;</hi> for I take it to be a <hi>contempt</hi> of a high nature againſt out <hi>Authority,</hi> and ſo a crime <hi>unpardonable:</hi> Damme, I banniſh'd it out of the Univerſi<g ref="char:EOLhyphen"/>ty of <hi>Oxford,</hi> and my Lord <hi>Generall</hi> hath ſince taken <hi>Degrees</hi> there, with the Lieftenant Generall, and divers other Gentlemen that underſtand as little <hi>reaſon</hi> as my ſelf: Damme, it reviveth my drooping ſick <hi>ſoul</hi> to heare that they are become Members of <hi>All-ſoules,</hi> and be God, for ought I know, it may prove a means of ſaving their <hi>ſoules:</hi> Damme, I am their <hi>Chancellor,</hi> and would have Viſited them there, but that (a Pox on't) I was Vi<g ref="char:EOLhyphen"/>ſited
+<pb n="7" facs="tcp:165138:4"/>my ſelf; Judge me, they have honored me, and (i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> I had been well) I would have honored them again with my preſence; but I hope Mr. <hi>Button</hi> did it for me, he is the better <hi>Orator</hi> of the two, or elſe he is not worth a <hi>Button:</hi> Had I not been ill, all the men in the world could not have kept me from a Banquet, I lov'd <hi>ſweet-meats</hi> from a childe, and now I am almoſt become a Child again, for old men be twice children, and Chi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dren are loving, and love <hi>ſweet things;</hi> and be God I thinke it is a <hi>ſweet thing</hi> for Brethren to agree, and Banquet together in unity.</p>
+            <p>The Univerſity I hope gave them good content, and Mr. <hi>Mandit</hi> and Mr. <hi>Wil<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſon</hi> made them two <hi>good</hi> Sermons to ſave their ſouls; they were <hi>ſouldiers,</hi> and ſouldiers have <hi>ſouls</hi> to ſave as well as others, and if they will looſe their <hi>ſouls</hi> they may; and yet 'tis their owne fault if they doe, becauſe they are members of <hi>All-ſouls,</hi> can fight for <hi>ſouls,</hi> and preach to ſave <hi>ſouls</hi> too; and now (being Univerſity-men,) they may doe it lawfully too, with<g ref="char:EOLhyphen"/>out the mocks and flouts of the Reprobate <hi>Cavees,</hi> who profane<g ref="char:EOLhyphen"/>ly terme them <hi>Tub-men, Anabaptiſts, Ieſuites, &amp;c.</hi> Damme I was never much <hi>Book-learn'd,</hi> becauſe I took <hi>Hunting</hi> to be a more Noble exercize then <hi>learning;</hi> is it not better muſick to hear a Pack of Doggs mouth it, then a company of Schollars gabling the language of the Beaſt in an <hi>unknown tongue;</hi> No, I am no Schollar, but a <hi>Stateſman;</hi> and good Stateſmen cannot make good Schollars, you my ſee by <hi>Canterbery</hi> and <hi>Strafford,</hi> both good Schollars, but ill Stateſemen, and you may ſee what their <hi>learn<g ref="char:EOLhyphen"/>ing brought them too?</hi> Refuſe me, 'tis a dangerous thing to be a Schollar, <hi>Philip</hi> had rather be a <hi>Scullar,</hi> and get his living back<g ref="char:EOLhyphen"/>wards, as he gets his Honor, then take out ſuch <hi>leſſons;</hi> my head would look ſcurvily on <hi>London-bridge</hi> without a <hi>Perriwigge,</hi> and therefore God ſend me <hi>Ignorance:</hi> A Pox a learning for me, 'tis the worſt <hi>enemy</hi> the <hi>State</hi> has, for there is no miſchief commit<g ref="char:EOLhyphen"/>ted, but it is firſt learnt; therefore is not <hi>learning</hi> the cauſe of it? Do's not <hi>Lilburne</hi> learn the <hi>Levellers,</hi> and the <hi>Levellers</hi> learne the People, and the Devill <hi>learn</hi> them all to diſobey their Supe<g ref="char:EOLhyphen"/>riours, and ſet us together by the ears; 'Zblood, could <hi>I</hi> get but a luſty hunts-man, or a Falconer, that could <hi>man</hi> my wife, the Roague <hi>Ouldiſworth</hi> ſhould not ſtay a day in my Houſe; for <hi>I</hi> am ſure <hi>I</hi> have <hi>learnt</hi> no goodneſſe on him, his <hi>learning</hi> is the cauſe of
+<pb n="8" facs="tcp:165138:5"/>my ſickneſſe; for had not he <hi>learnt</hi> me to make <hi>Speeches,</hi> to ſpeak witty Sentences and the like, <hi>I</hi> had not been ſo jeered, that <hi>I</hi> am aſham'd to take my Coach, the very children pointing, and ma<g ref="char:EOLhyphen"/>king horns at me, ſaying, <hi>There goes my l<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ned Lord of Pembroke, and my wiſe Lord of Pembroke;</hi> but <hi>I</hi> thank God <hi>I</hi> have ſo much <hi>wiſedom<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> as to bid my Coachman <hi>drive away;</hi> Damme <hi>I</hi> hate <hi>re<g ref="char:EOLhyphen"/>venge,</hi> 'tis baſe in a Nob<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eman to ſeek <hi>revenge:</hi> No, <hi>I</hi> had rather fall ſick againe, then ſeek <hi>r<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>venge,</hi> becauſe 'tis dangerous: But J am now <hi>recovered</hi> of my <hi>ſi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>kneſſe,</hi> and therefore <hi>I</hi> hope all men will rejoyce, and give thanks; and J ſhall deſire the <hi>Supreame Authority to ſet apart a day of Thanksgiving,</hi> and Order the ſame; <hi>Damme</hi> they ſhall looſe nothing by't, for J will beſtow a <hi>Thankſ<g ref="char:EOLhyphen"/>giving</hi> Dinner on them, for 'tis a ſigne of health that J begin to be hungry, and hunger had need of a good <hi>dinner;</hi> No man hath given more Thankes for the <hi>Parliaments Victories</hi> then my ſelfe, Miſtris <hi>May</hi> can witneſſe it, Judgeme (in my judgement) one <hi>thanksgiving</hi> deſerves another; the <hi>Levellers</hi> are now levell'd, and deſtroy'd, and as God ſhall judge me, J had like to have been levell'd into my grave, and then J had been deſtroy'd too; and therefore one <hi>Thanksgiving may ſerve both;</hi> And ſo J take my leave of you for the preſent, not noubting but you will re<g ref="char:EOLhyphen"/>member me in your Prayers,</p>
+            <closer>
+               <signed>
+                  <hi>Yours till death, Philip Herbert, <hi>Knight for</hi> Berkſhire; <hi>AND</hi> Earl of <hi>Pembroke</hi> and <hi>Montgomery.</hi>
+                  </hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="Parliamentary_ordinance">
+            <opener>
+               <dateline>
+                  <date>Die Martis 29 <hi>May,</hi> 1649.</date>
+               </dateline>
+            </opener>
+            <p>ORdered that the next <hi>Innocents. Day</hi> ſhall be a generall Thanksgiving throughout <hi>England</hi> and <hi>Wales</hi> for the happy recovery of the Earl of<hi>Pembroke.</hi>
+            </p>
+            <closer>
+               <signed>
+                  <hi>Hen. Scobell.</hi> Cler. Parl.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
